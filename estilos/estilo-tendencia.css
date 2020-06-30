@@ -1,0 +1,52 @@
+/*Contenedor todo*/
+.container-all{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    margin-top: 40px;
+    border-top: 6px solid rgba(57, 105, 50, 0.99);
+}
+/*Titulo*/
+.title{
+    font-size: 40px;
+    margin-bottom: 40px;
+    color:rgb(154, 42, 42);
+}
+/*Subtitulo*/
+.sub-title{
+    font-size: 30px;
+    font-weight: 400;
+    color:#000000;
+}
+
+/*Contenedor imagen*/
+.container-all img{
+    width: 350px;
+    float: left;
+    margin-right: 20px;
+
+}
+/*Contenedor de todo etiqueta p*/
+.container-all p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.container-all b{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+h3{
+    color:aliceblue;
+}
+
+.container .enlace a {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none; /* La propiedad text-decoration permite que el texto sea decorado*/
+    color: #b21488;
+}

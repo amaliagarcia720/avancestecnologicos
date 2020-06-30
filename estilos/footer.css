@@ -1,0 +1,22 @@
+footer{
+    margin-top: 60px;
+    padding: 30px;
+    text-align: center;
+    background: #5E2129;
+}
+h1{
+    color:aliceblue;
+}
+.icon-chrome{
+    color: #d1d1d1;
+    font-size: 40px;
+}
+
+.icon-twitter:hover, .icon-facebook:hover, .icon-instagram:hover{
+    color: #79ebe2;
+    cursor: pointer;
+}
+.icon-chrome:hover, .icon-facebook:hover, .icon-instagram:hover{
+    color: #eb797b;
+    cursor: pointer;
+}
